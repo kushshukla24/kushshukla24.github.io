@@ -3,13 +3,11 @@ languageCode = 'en-us'
 title = 'Home | Kush Shukla'
 author = 'Kush Shukla'
 theme = ["raditian-free-hugo-theme", "lightbi-hugo"]
-# Enable emojis globally
+
 enableEmoji = true
+enableRobotsTXT = true
 
-# Plugins
 [params.plugins]
-
-  # CSS Plugins
   [[params.plugins.css]]
   URL = "css/main.css"
   [[params.plugins.css]]
@@ -17,7 +15,6 @@ enableEmoji = true
   [[params.plugins.css]]
   URL = "css/custom.css"
 
-  # JS Plugins
   [[params.plugins.js]]
   URL = "js/rad-animations.js"
   [[params.plugins.js]]
@@ -25,10 +22,7 @@ enableEmoji = true
   [[params.plugins.js]]
   URL = "js/library/fontfaceobserver.js"
 
-
-# navigation
 [menu]
-
   [[menu.header]]
   name = "About"
   URL = "#about"
@@ -72,15 +66,10 @@ enableEmoji = true
 
 
 [params]
-
   sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
-
   googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
-
   [params.logo]
     text1 = "Kush"
     text2 = "Shukla"
-
   [params.footer]
       copyright = "© Kush Shukla, 2023. All rights reserved."
-
