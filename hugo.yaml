@@ -296,9 +296,11 @@ params:
         content: |-
           Projects:
           - Modeling multi-echelon supply chain for optimized cost and customer satisfaction index.
-            Project Guide Prof. Manoj Kumar Tiwari, Department of Industrial Engineering, IIT Kharagpur
+            
+            <b>Project Guide</b>: Prof. Manoj Kumar Tiwari, Department of Industrial Engineering, IIT Kharagpur
           - On establishing a reference feature for circularity evaluation from CMM and form data.
-            Project Guide Prof. G. Rajamohan, Department of Manufacturing Engineering, NIAMT
+            
+            <b>Project Guide</b>: Prof. G. Rajamohan, Department of Manufacturing Engineering, NIAMT
 
       - title: "Intermediate"
         school:
@@ -395,7 +397,7 @@ params:
 
   footer:
     recentPosts:
-      path: "blogs"
+      path: "blog"
       count: 3
       title: Recent Posts
       enable: true
