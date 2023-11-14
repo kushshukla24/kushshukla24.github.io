@@ -91,4 +91,11 @@ Something like:
 x86_64 arm64
 ```
 
+## Size of the Universal Mac Build
+Since the Universal Mac Build comprise of both the architectures, it is expected to be larger in size than the individual builds and almost twice of any single architecture. This can be verified using the following command:
+```bash
+ls -lh "<output_path>"
+```
+
+
 
