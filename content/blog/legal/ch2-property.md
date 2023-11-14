@@ -28,7 +28,7 @@ Also, as mentioned in the last chapter, there exists a Will, dated **June 15, 19
 
 In **1979**, my father **F** took a significant step towards establishing a more permanent residence on **P** by constructing a roof of tile pantile, marking the initiation of our long-term habitation at the property. This marked the beginning of a more settled living arrangement. Fast forward to **1987**, fueled by a desire to enhance our quality of life, **F** further invested in the property. Using his hard-earned income, he constructed a durable pucca house on **P**, featuring one room, one kitchen, one bathroom, and even installed a hand-pump for convenience. The entire construction project was financed solely from his personal earnings, underlining his commitment to providing a comfortable and self-sufficient living space for our family. Additionally, **F** diligently fulfilled all civic responsibilities associated with **P**, ensuring the timely payment of house taxes, water taxes, and electricity bills, showcasing a responsible and proactive approach to property ownership (receipts of the same are available for consideration).
 
-**G2** never resided at **P** at any point in his life uptil now. In the beginning, **F** served as the primary provider for the family, managing the property and ensuring the well-being of the household, which included **G1**, **S1**, and **S2**. After a few years, **S1** and **S2** secured employment and became financially capable of supporting their family. However, they never contributed financially towards the care and maintenance of property **P**, including tax payments. In approximately **1985**, **S1** relocated, and around **1990**, **S2** also moved out of **P**. At that time, my father **F** provided a lump-sum amount to support their relocation, and an informal understanding was reached verbally. The understanding included an agreement that neither **S1** nor **S2** would assert any ownership claim over P thereafter. It's important to note that this agreement was based on a verbal commitment between the brothers, and there is no documentary evidence of this transaction.
+**G2** never resided at **P** at any point in his life uptil now. In the beginning, **F** served as the primary provider for the family, managing the property and ensuring the well-being of the household, which included **G1**, **S1**, and **S2**. **G1** expired in the year 1982. After a few years, **S1** and **S2** secured employment and became financially capable of supporting their family. However, they never contributed financially towards the care and maintenance of property **P**, including tax payments. In approximately **1985**, **S1** relocated, and around **1990**, **S2** also moved out of **P**. At that time, my father **F** provided a lump-sum amount to support their relocation, and an informal understanding was reached verbally. The understanding included an agreement that neither **S1** nor **S2** would assert any ownership claim over P thereafter. It's important to note that this agreement was based on a verbal commitment between the brothers, and there is no documentary evidence of this transaction.
 
 Fast forward to **August 23, 2017**, when my father went to settle the dues with the Kanpur Nagar Nigam, he was met with an unexpected revelation. It was conveyed to him that the property had undergone mutation in his name, alongside five others, a process supposedly executed on **April 21, 2017**. This list included **G2**, **S1**, **S2**, **B1**, and **B2**. What added to the shock was that this mutation had occurred without any prior knowledge or consent from my father. In response to this surprising revelation, my father took it upon himself to scrutinize the documentation that served as the basis for the property mutation. His investigation revealed a significant flaw—the information on which the mutation had been executed was incorrect, failing to accurately represent the correct family hierarchy. Furthermore, for legal thoroughness, the mutation was officially announced in the less widely circulated local newspaper, **Sahara India**, on **18th March 2017**. My father, **F**, challenged the Nagar Nigam regarding the mutation, and we received a written response stating that "the mutation in the records of Nagar Nigam is solely for the purpose of tax payments and is unrelated to the ownership of the property."
 
@@ -53,6 +53,7 @@ Let's delve into the key points and facts of the case evidence for which is avai
 - At the time of **GG's** passing, **S1**, **S2**, **S3**, and **B3** had not yet been born.
 - Pending installments of **P** were paid by **F** on **8th May 1970**.
 - All the taxes and bills of **P** were paid by **F** till-date.
+- **G1** expired in th year **1982**.
 - Mutation of the property **P** was done on **21st April 2017** in the records of Kanpur Nagar Nigam.
 - The mutation in the records of Nagar Nigam is solely for the purpose of tax payments and is unrelated to the ownership of the property.
 - **G2** sold **50%**, while both **S1** and **S2** purportedly sold **16.67%** each of the property **P** on **9th April 2018**.
@@ -62,23 +63,35 @@ Let's delve into the key points and facts of the case evidence for which is avai
 
 The sale of portions of property **P** by **G2**, **S1**, and **S2** on **April 9, 2018**, constitutes a violation of several legal provisions and established principles governing the disposition of property. Here's a comprehensive overview of the relevant acts and laws:
 
-1. **Lease Deed Violation:** **Clause 2(n)** of the Lease Deed dated **June 16, 1950**, explicitly prohibits the lessee from transferring, assigning, or parting with possession of any portion of the demised premises without the prior written consent of the Board. By selling portions of the property, **G2**, **S1**, and **S2** have directly violated this clause.
+1. **Lease Deed Violation:**  
 
-2. **Hindu Succession Act, 1956:** Property **P** is considered ancestral property, and its inheritance and disposition are governed by the Hindu Succession Act, 1956. **Section 6** of the Act states that no coparcener can alienate their undivided interest in coparcenary property without the consent of the other coparceners. Since the property is not yet freehold, it remains ancestral property, and the purported sale of portions by **G2**, **S1**, and **S2** without the consent of **F** is a clear violation of **Section 6**.
+**Clause 2(n)** of the Lease Deed dated **June 16, 1950**, explicitly prohibits the lessee from transferring, assigning, or parting with possession of any portion of the demised premises without the prior written consent of the Board. By selling portions of the property, **G2**, **S1**, and **S2** have directly violated this clause.
 
-**Relevant Court Cases:**
+2. **Hindu Succession Act, 1956:**  
 
-1. **Rameshwar Dayal v. Janki Prasad (1932) 56 IA 263:**
+Property **P** is considered ancestral property, and its inheritance and disposition are governed by the Hindu Succession Act, 1956. **Section 6** of the Act states that no coparcener can alienate their undivided interest in coparcenary property without the consent of the other coparceners. Since the property is not yet freehold, it remains ancestral property, and the purported sale of portions by **G2**, **S1**, and **S2** without the consent of **F** is a clear violation of **Section 6**.
+
+
+##### Relevant Court Cases:
+
+- **Rameshwar Dayal v. Janki Prasad (1932) 56 IA 263:**
 In this landmark case, the Supreme Court of India held that a sale of ancestral property by a coparcener without the consent of other coparceners is voidable at the instance of the other coparceners. This implies that the sale can be challenged and overturned by the non-consenting legal heirs.
 
-2. **Harbans Singh v. Harnek Singh (1968) AIR 1968 P&H 514**
+- **Harbans Singh v. Harnek Singh (1968) AIR 1968 P&H 514**
 The High Court of Punjab and Haryana upheld the principle established in Rameshwar Dayal, reiterating that a sale of ancestral property without the consent of other coparceners is void ab initio. This means that the sale is completely invalid from the outset and has no legal effect.
 
-3. **Transfer of Property Act, 1882:** **Section 4** of the Transfer of Property Act, 1882, prohibits the transfer of property to which the transferor has no valid title or right to transfer. In this case, **G2**, **S1**, and **S2** could not transfer portions of the property without the consent of other legal heirs, as they did not have the sole authority to dispose of the entire property. Therefore, the purported sales are void under **Section 4** of the Act.
 
-4. **The Indian Contract Act, 1872:** **Section 10** of the Indian Contract Act, 1872, states that all agreements are void if they are made with the intention of committing a fraud. In this case, the sale deeds would be fraudulent because they represent transactions that never actually took place.
+3. **Transfer of Property Act, 1882:** 
 
-5. **The Registration Act, 1908:** **Section 47** of the Registration Act, 1908, states that a registered document is not valid if it is based on a document that is void under the law. In this case, the sale deeds would be void because they are based on transactions that never actually took place.
+**Section 4** of the Transfer of Property Act, 1882, prohibits the transfer of property to which the transferor has no valid title or right to transfer. In this case, **G2**, **S1**, and **S2** could not transfer portions of the property without the consent of other legal heirs, as they did not have the sole authority to dispose of the entire property. Therefore, the purported sales are void under **Section 4** of the Act.
+
+4. **The Indian Contract Act, 1872:** 
+
+**Section 10** of the Indian Contract Act, 1872, states that all agreements are void if they are made with the intention of committing a fraud. In this case, the sale deeds would be fraudulent because they represent transactions that never actually took place.
+
+5. **The Registration Act, 1908:** 
+
+**Section 47** of the Registration Act, 1908, states that a registered document is not valid if it is based on a document that is void under the law. In this case, the sale deeds would be void because they are based on transactions that never actually took place.
 
 
 ## Conclusion
@@ -93,8 +106,7 @@ Together, as an open-minded community, we can collectively work towards building
 
 
 
-Open Questions:
-1. When did G1 expired?
+
 
 
 
