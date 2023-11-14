@@ -7,7 +7,7 @@ draft: false
 
 # Chapter 2 - The Property
 
-In our previous chapter, we delved into the significance of the Will, a crucial element in our pursuit of asserting rightful ownership of the property. In this installment, we embark on a journey through the annals of time, unraveling the series of events that have unfolded on the property, events that bear legal implications. 
+In our previous chapter,  I introduced you to the case centered around the will that substantiates my father's ownership of the property. In this installment, I aim to shift the spotlight onto the property itself—its history, evolution, and the myriad events that have unfolded on the property having legal significance.
 
 ## Family Hierarchy
 The family structure pertinent to this case, spans across generations, is as follows:
