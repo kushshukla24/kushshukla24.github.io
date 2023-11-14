@@ -23,7 +23,7 @@ Fast forward to the year 2018, my father, with a discerning eye, detected suspic
 ## Analysis
 This revelation about the unregistered will and the subsequent events marked the beginning of an intricate legal journey. With the will as a central piece of evidence and the property dispute intensifying, I embarked on a mission to navigate the complex world of property law, seeking a resolution that would honor the legacy of my family's ancestral home. 
 Let's delve into the key points and facts of the case:
-- There is an **original Will** that exists, dated 15th June 1958, making it more than **60 years old**.
+- There is an **original Will** that exists, dated **15th June 1958**, making it more than **60 years old**.
 - **The Will** is unregistered.
 - The testator, the two witnesses, and the advocate whose names appear on the Will are all deceased.
 - There exists a Lease Deed of the Property from 16th June 1950, bearing the signature of the testator.
