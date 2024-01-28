@@ -1,9 +1,11 @@
 ---
 title: "Ch3 Robbery"
-date: 2023-11-14T12:13:22+05:30
+date: 2024-01-28T12:13:22+05:30
 tags: ["personal", "indian law", "experience", "robbery", "ancestral", "property", "law", "crime", "indian penal code"]
 draft: false
 ---
+
+# Chapter 3 - The Robbery
 
 In the preceding chapters, I provided a comprehensive history and background of the property, delving into the details surrounding the dispute. In this segment of the chapter, my focus shifts to the criminal nature of the robbery that transpired on April 10, 2018.
 
