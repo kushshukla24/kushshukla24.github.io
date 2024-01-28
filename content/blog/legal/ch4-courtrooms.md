@@ -1,5 +1,5 @@
 ---
-title: "Ch4 Experience"
+title: "My Journey Through Legal Labyrinths: Owning the Ancestral Property"
 date: 2024-01-28T12:13:29+05:30
 tags: ["personal", "experience", "will", "ancestral", "property", "law"]
 draft: false

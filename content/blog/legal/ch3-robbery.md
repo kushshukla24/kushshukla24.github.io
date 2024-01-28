@@ -1,5 +1,5 @@
 ---
-title: "Ch3 Robbery"
+title: "My Journey Through Legal Labyrinths: Owning the Ancestral Property"
 date: 2024-01-28T12:13:22+05:30
 tags: ["personal", "indian law", "experience", "robbery", "ancestral", "property", "law", "crime", "indian penal code"]
 draft: false
