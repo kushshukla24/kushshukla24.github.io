@@ -1,11 +1,11 @@
 ---
-title: "My Journey Through Legal Labyrinths: Owning the Ancestral Property"
+title: "My Journey Through Legal Labyrinths"
 date: 2024-01-28T12:13:29+05:30
 tags: ["personal", "experience", "will", "ancestral", "property", "law"]
 draft: false
 ---
 
-# Chapter 4: My Experience with the Legal System and Coutrooms Thus Far
+# Chapter 4: The Experience
 
 In the preceding chapters, we delved into the intricate details of the case, unraveling the complexities that shroud the property dispute. As we navigate through this legal labyrinth, I find it crucial to offer insights into my firsthand experience with the legal system and courtroom thus far.
 
@@ -57,8 +57,6 @@ Challenges in Finding a Good Lawyer: The process of finding and retaining a trus
 
 
 ## Conclusion
-As I reflect on my experiences with the legal system and courtrooms thus far, I am reminded of the words of the late Justice V.R. Krishna Iyer, who once said, 
-> The Indian legal system is a disaster, and it is time for a revolution. 
 
 In the labyrinthine corridors of the Indian legal system, the prolonged battles for justice can exact a heavy toll on one's mental peace and stability. It often feels as though the system takes more than it gives, leaving individuals in a state of seemingly endless waiting. Instead of being productive and contributing to our own well-being, our families, and society at large, we often find ourselves entrapped in a ceaseless legal struggle.
 However, I've chosen to view this extended ordeal as an opportunity, a chance to understand the law, put it through my unique perspective and present it to the world through this blog post. 

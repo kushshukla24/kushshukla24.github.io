@@ -1,5 +1,5 @@
 ---
-title: "My Journey Through Legal Labyrinths: Owning the Ancestral Property"
+title: "My Journey Through Legal Labyrinths"
 date: 2023-11-10T18:49:47+05:30
 tags: ["personal", "indian law", "experience", "will", "ancestral", "property", "law"]
 draft: false
