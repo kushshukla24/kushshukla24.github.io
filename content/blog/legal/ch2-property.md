@@ -11,12 +11,12 @@ In our previous chapter,  I introduced you to the case centered around the will 
 
 ## Family Hierarchy
 
-![alt text](./family-hierarchy.png "Family Hierarchy")
+![alt text](/family-hierarchy.png "Family Hierarchy")
 
 The family structure pertinent to this case, spans across generations, is as follows:
 Great-grandfather **GG**, had two sons, **G1** and **G2**, along with three daughters, **D1**, **D2**, and **D3**. Moving a generation down, **G1** had three sons my father **F**, other (**S1**, **S2**) and three daughters (**B1**, **B2**, and **B3**), while **G2** had one son, **S3**.
 
-As of the present day, the whereabouts of **D1**, **D2**, and **D3** is unknown. **GG**, **G1**, and **B1** have passed away. Among the living and actively involved in the ongoing legal battle are **G2**, **F**, **S1**, **S2**, **B2**, and **B3**. 
+As of the present day, the whereabouts of **D1**, **D2**, and **D3** is unknown. **GG**, **G1**, and **B1** have passed away. Among the living and actively involved in the ongoing legal battle are **G2**, **F**, **S1**, **S2**, **B2**, and **B3** (marked in dotted red boundary in the image above). 
 
 ## Background Story
 **GG** acquired a plot, will denote it as **P** now on, spanning **1350 square feet** in Kanpur. The acquisition was formalized through a lease deed dated **June 16, 1950**, between the Kanpur Development Board and **GG** for this property. Notably, this lease deed was duly registered at the Sub-Registrar's office in Kanpur on **June 29, 1950**. To provide some context, at the time of this purchase, **GG** resided with his family in a rented house, denoted as **R**. Unfortunately, **GG** passed away on **June 21, 1958**.
@@ -78,11 +78,9 @@ This section states that no coparcener can alienate their undivided interest in 
 Property **P** is an ancestral property, and its inheritance and disposition are governed by the Hindu Succession Act, 1956.  Since the property is not yet freehold, it remains ancestral property, and the purported sale of portions by **G2**, **S1**, and **S2** without the consent of **F** is a clear violation of this section.
 
 **Reference Cases and Verdict**:
-1. **Rameshwar Dayal v. Janki Prasad (1932) 56 IA 263:**
-In this landmark case, the Supreme Court of India held that a sale of ancestral property by a coparcener without the consent of other coparceners is voidable at the instance of the other coparceners. This implies that the sale can be challenged and overturned by the non-consenting legal heirs.
+1. **Baldev Singh v. Jaswant Singh (1960 AIR 458)**, the Supreme Court of India held that a sale of ancestral property by a coparcener without the consent of other coparceners is voidable at the instance of the other coparceners. This implies that the sale can be challenged and overturned by the non-consenting legal heirs.
 
-2. **Harbans Singh v. Harnek Singh (1968) AIR 1968 P&H 514**
-The High Court of Punjab and Haryana upheld the principle established in Rameshwar Dayal, reiterating that a sale of ancestral property without the consent of other coparceners is void ab initio. This means that the sale is completely invalid from the outset and has no legal effect.
+2. **Harbans Singh v. Harnek Singh (1968) AIR 1968 P&H 514**, The High Court of Punjab and Haryana upheld the principle established in Rameshwar Dayal, reiterating that a sale of ancestral property without the consent of other coparceners is void ab initio. This means that the sale is completely invalid from the outset and has no legal effect.
 
 
 #### 3. Section 4 of Transfer of Property Act, 1882 
