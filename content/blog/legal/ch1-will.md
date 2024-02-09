@@ -12,7 +12,7 @@ I was born and raised in Kanpur, Uttar Pradesh. Since childhood, I had heard abo
 Fate has a curious way of reminding one of their roots. It was an ordinary morning on the **10th of April 2018** when I received a call from my father. He informed me that a few people had broken into our home in Kanpur and attempted to take possession forcefully. They loaded our belongings and household goods onto trucks in broad daylight, perpetrating a robbery with the support of some individuals in our locality inclined towards crime. These individuals received assistance from relatives on my father's side, who aided them in breaking into the house and attempting a fraudulent property sale in which they had no stake. They believed they could execute this plan since my father had not completed the mutation of the property to his name, and the ownership in the government records still displayed his grandfather’s name. The incident shook me to the core, making me realize that I could no longer remain oblivious to the property disputes that had long haunted my family. This drove me to initiate conversations, seek legal understanding, consult experts, and take actions towards resolution. It was during this time that I came to learn about **the will**, a document of immense importance in our ongoing property dispute, which my father had in his possession.
 
 ## Background Story and the Case
-My father, along with his family, came to this property when it was a plain plot with no construction on it. This plot was allotted to his grandfather in 1949 by the KDA, and his name was on the ownership records. Since he was the only working person in his family, he constructed a small kutcha house with his own money and later built a pakka house after marriage. He also possessed a will dated **June 15, 1958**. This will was drafted by my great-grandfather with the help of an advocate and bears his signature, along with the signatures of two witnesses and the advocate, along with the advocate's stamp. In 1997, my father got this will through one of the two witnesses to the will who was his uncle and nephew to his grandfather. Since, this plot was his only possession, he named it to my father who was the first male child of the family. In the Will, he explicitly mentioned his family structure and reasons why he wanted to give his possessions to his first grandson. Since, he died after around a month of creating the Will, the Will stayed unregistered. 
+My father, along with his family, came to this property when it was a plain plot with no construction on it. This plot was allotted to his grandfather in 1949 by the Kanpur Development Authority (KDA), and his name was on the ownership records. Since he was the only working person in his family, he constructed a small kutcha house with his own money and later built a pakka house after marriage. He also possessed a will dated **June 15, 1958**. This will was composed by my great-grandfather with the assistance of a legal advocate. It bears his signature, alongside the signatures of two witnesses and the advocate, as well as the advocate's stamp. In 1997, my father got this will through one of the two witnesses to the will who was his uncle and nephew to his grandfather. Since, this plot was his only possession, he named it to my father who was the first male child of the family. In the Will, he explicitly mentioned his family structure and reasons why he wanted to give his possessions to his first grandson. Since, he died after **6 days** of creating the Will on **June 21, 1958**, the Will stayed unregistered. 
 
 With the will in his possession, my father initiated the process of mutating the property's ownership based on its contents. However, given the inefficient and bribe-seeking system at Kanpur Development Authority and Kanpur Nagar Nigam, the action on his application was slow and required a lot of follow-up. On further follow-up, a demand for a huge bribe came up from the officials at KDA and Nagar Nigam, which discouraged my father from proceeding any further. The application for mutation is still pending in the files of KDA with an incomplete process.
 
@@ -20,23 +20,31 @@ At this juncture, my father sought advice from relatives and a trusted advocate 
 
 Everyone in the family is aware of the will and knows that my father is the sole beneficiary. My father's brothers, particularly, were upset because they were not even born when the will was created. Although they lived separately in their own houses, they often bothered my father, asking for money since they felt they were not getting anything due to the will. My father paid them on two occasions, but their demands persisted.
 
-Later, in 2013, my parents had to move out of Kanpur due to a job change. My brother and I were already living outside Kanpur after completing our engineering degrees. Although they used to visit our home in Kanpur two or three times a year, the house remained locked most of the time. Recently, we heard rumors from some relatives and local neighbors that something wrong was happening.
-
+Later, in 2013, my parents had to move out of Kanpur due to a job change. My brother and I were already living outside Kanpur after completing our engineering degrees. While we (myself, my father, mother, and brother) visited our home in Kanpur two or three times a year, either together or individually, the house remained locked most of the time. We heard rumors from some relatives and local neighbors that something untoward was transpiring concerning the property.
 These rumors were consistently centered on their plan to sell the property in our absence to local goons, seeking financial gain while simultaneously intending to forcefully expel my father from his rightful possession of the premises. Fearing that our ancestral property was under threat, on **April 9, 2018**, he took a decisive step and, after consulting a senior lawyer, initiated an **Original Suit** to assert his ownership rights. Since that pivotal moment, a flurry of paperwork has transpired between the involved parties. Yet, despite all these legal intricacies, the linchpin of this entire dispute, **"The Will"**, which, in my view, holds the key to determining rightful ownership, remains unaddressed and unresolved. 
 
 
 ## Analysis
 This revelation about the unregistered will marked the beginning of my intricate legal journey. As the property dispute escalated within the court of law, I embarked on a mission to navigate the complexities of property law, with the overarching goal of finding a resolution for the property dispute and securing peace of mind for both myself and my family.
 
-
+#### Facts:
 Let's delve into the key points and facts of the case:
-- There is an **original Will** that exists, dated **15th June 1958**, making it more than **60 years old**.
-- **The Will** is unregistered.
-- The testator, the two witnesses, and the advocate whose names appear on **the Will** are all deceased.
-- There exists a Lease Deed of the Property from **16th June 1950**, bearing the signature of the testator.
-- **The Will** is complete in all legal aspects with proper signatures and justifications.
-- **The Will** in original form is in possession of my father.
+1. There is an **original Will** that exists, dated **June 15, 1958**, making it more than **60 years old**.
+2. **The Will** is unregistered.
+3. The testator, the two witnesses, and the advocate whose names appear on **the Will** are all deceased.
+4. There exists a Lease Deed of the Property from **June 16, 1950**, bearing the signature of the testator.
+5. **The Will** is complete in all legal aspects with proper signatures and justifications.
+6. **The Will** in original form is in possession of my father.
+7. The Testator died a normal death without any mental illness on **June 21, 1958**. He created the Will in full senses as mentioned on **the will** and obtained signatures of his two nephews as witnesses. 
+8. The age of the only beneficiary of **the will** was only 5 years when the will was created.
+9. The Testator passed away **six days** after writing **the Will**.
+10. **The Will** existed in 1999 when my father applied for mutation at KDA and Nagar Nigam. Copies of the will are still present in the records of KDA and Nagar Nigam.
 
+#### Evidences:
+1. **The Original Will**.
+2. **The Lease Deed**.
+3. **The Mutation Application** from my father to KDA and Nagar Nigam.
+4. **Death Certificate** of the Testator.
 
 On the opposing side of this legal skirmish, the parties contesting our claim assert that the Will is nothing more than a false, fictitious, forged, and fabricated document. Their claims, while vehement, appear to lack substantial proof, and it seems convenient for them to assert the Will's invalidity simply because it serves their interests. This challenge, however, served as a catalyst for me to delve into the intricacies of Indian law, determined to establish the validity of the Will as a crucial piece of evidence for our case.
 
@@ -112,16 +120,16 @@ This section states that the documents that are 30 years old or more and are pro
 
 **The Original Will**, dated **15th June 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by me, the heir and custodian, and by a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
 
-### Chances of Tempering of Will and influencing the testator to make a Will in favor.
+### Personal Perspective
 
-#### Facts: 
-- The Testator died a normal death without any mental illness on **21st June 1958**. He created the Will in full senses as mentioned on **the will** and obtained signatures of his two nephews as witnesses. 
-- The age of the only beneficiary of **the will** was only 5 years when the will was created.
-- The Testator passed away **six days** after writing **the Will**.
+** Why did the Will remain unregistered?**
+Considering the fact, that the testator passed away **six days** after creating the will, the circumstances clearly indicate why the will remained unregistered. Also, during those times (~ 1958), the registration of wills was not very common, and the creation of a will by a competent advocate was deemed sufficient. 
 
-**My Inference:**
+**Chances of Tempering of Will and influencing the testator to make a Will in favor.**
 
-A 5-year-old child cannot influence a mature man to write a will in his favor. Considering that the testator passed away shortly after drafting the will, the circumstances clearly indicate why the will remained unregistered. During those times, the registration of wills was not very common, and the creation of a will by a competent advocate was deemed sufficient. The will existed in 1999 when my father applied for mutation at KDA and Nagar Nigam. Copies of the will are still present in the records of KDA and Nagar Nigam.
+A 5-year-old child cannot influence a mature man to write a will in his favor. So, influencing seems out of question here.
+
+The will existed in 1999 when my father applied for mutation at KDA and Nagar Nigam. Copies of the will are still present in the records of KDA and Nagar Nigam. So, its not so, that the will was created after the dispute started.
 
 
 ## Conclusion
