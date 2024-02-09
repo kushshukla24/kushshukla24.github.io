@@ -118,7 +118,7 @@ This section states that the documents that are 30 years old or more and are pro
 
 **My Inference:**
 
-**The Original Will**, dated **15th June 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by me, the heir and custodian, and by a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
+**The Original Will**, dated **June 15, 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by me, the heir and custodian, and by a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
 
 ### Perspective on other aspects of the Will
 
