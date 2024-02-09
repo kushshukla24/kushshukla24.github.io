@@ -12,7 +12,7 @@ outputs:
     - "HTML"
     - "RSS"
 
-Paginate: 3
+Paginate: 6
 enableRobotsTXT: true
 #disqusShortname: kushshukla24
 googleAnalytics: G-TPL5RY5428
