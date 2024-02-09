@@ -120,17 +120,17 @@ This section states that the documents that are 30 years old or more and are pro
 
 **The Original Will**, dated **15th June 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by me, the heir and custodian, and by a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
 
-### Personal Perspective
+### Perspective on other aspects of the Will
 
-** Why did the Will remain unregistered?**
+**Why did the Will remain unregistered?**
+
 Considering the fact, that the testator passed away **six days** after creating the will, the circumstances clearly indicate why the will remained unregistered. Also, during those times (~ 1958), the registration of wills was not very common, and the creation of a will by a competent advocate was deemed sufficient. 
 
 **Chances of Tempering of Will and influencing the testator to make a Will in favor.**
 
-A 5-year-old child cannot influence a mature man to write a will in his favor. So, influencing seems out of question here.
-
 The will existed in 1999 when my father applied for mutation at KDA and Nagar Nigam. Copies of the will are still present in the records of KDA and Nagar Nigam. So, its not so, that the will was created after the dispute started.
 
+A 5-year-old child cannot influence a mature man to write a will in his favor. So, influencing seems out of question here.
 
 ## Conclusion
 Given these compelling facts under law, there should be minimal room for contention in the court's deliberations. The age of the document, the credible custodial arrangements, and the presence of multiple reliable sources all converge to support the claim that the Will is not only genuine but also an irreplaceable testament to the testator's wishes. 
