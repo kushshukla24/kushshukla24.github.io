@@ -50,19 +50,24 @@ On the opposing side of this legal skirmish, the parties contesting our claim as
 
 Through extensive research, I uncovered the pertinent sections of the Indian Acts applicable in the jurisdiction of Kanpur that are vital to our case. These sections will serve as our guiding light as we seek to prove the authenticity and legality of **the Will**, thus bolstering our claim to rightful ownership. I have outlined the relevant Indian legal provisions and my interference w.r.t this case below:
 
-#### 1. Section 18 of the Indian Registration Act, 1908, Section 68 of the Indian Succession Act, 1925: 
+#### 1. Section 18 Clause (e) of the Indian Registration Act, 1908
 
-These sections states that registration of a Will is not mandatory and Will is not invalid because it is not registered.
+The clause states that registration of a Will is optional and not mandatory.
 
 **Reference Cases and Verdict**:
+Needs Reaccessing
 1. **Baldev Singh v. Jaswant Singh (1960 AIR 458)**, the Supreme Court of India held that an unregistered Will is valid if it complies with the requirements of Section 63 of the Indian Succession Act, 1925.
 2. **Nirmaljit Singh v. Harbhajan Kaur (1992 AIR 499)**, the Supreme Court of India held that the registration of a Will is a matter of convenience and not of validity.
-Harish Chandra vs. Prem Parkash (AIR 2000 SC 3993): The Supreme Court of India held that an unregistered will is still valid as long as it meets all the other requirements for a valid will.
-3. **Smt. Sushila Devi v. Smt. Jai Narayan (AIR 2007 SC 1805)**, the Supreme Court held that the fact that a Will is unregistered does not affect its validity.
+3. **Harish Chandra vs. Prem Parkash (AIR 2000 SC 3993)**, The Supreme Court of India held that an unregistered will is still valid as long as it meets all the other requirements for a valid will.
+4. **Smt. Sushila Devi v. Smt. Jai Narayan (AIR 2007 SC 1805)**, the Supreme Court held that the fact that a Will is unregistered does not affect its validity.
 
 **My Inference:** 
 
 The registration of Wil is not a compulsory requirement. The unregistered nature of the Will, should not have posed a problem in the process of property mutation, as it is, in fact, a valid and legally recognized document. This aspect should have been duly considered by the Kanpur Development Authority and Nagar Nigam when evaluating our request for property mutation. However, it seems that these agencies are considering unregistered Will only with court order to save themselves from any litigation. Nonetheless, it's essential to emphasize that the Will remains perfectly valid in the court of law and should be acknowledged as a crucial piece of evidence in our case. Despite its unregistered status, the Will bears substantial weight in our pursuit of establishing our rightful ownership of the ancestral property. 
+
+#### 2. Section 68 of Indian Succession Act, 1925
+> Witness not disqualified by interest or by being executor.—
+No person, by reason of interest in, or of his being an executor of, a Will shall be disqualified as a witness to prove the execution of the Will or to prove the validity or invalidity thereof.
 
 #### 2. Section 57 and 63 of the Indian Succession Act, 1925, Section 68 of the Indian Evidence Act, 1872: 
 
