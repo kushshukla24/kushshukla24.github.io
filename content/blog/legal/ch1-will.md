@@ -52,14 +52,12 @@ Through extensive research, I uncovered the pertinent sections of the Indian Act
 
 #### 1. Section 18 Clause (e) of the Indian Registration Act, 1908
 
-The clause states that registration of a Will is optional and not mandatory.
+> 18. Documents of which registration is optional. Any of the following documents may be registered under this Act, namely,
+(e) wills;
 
 **Reference Cases and Verdict**:
 Needs Reaccessing
-1. **Baldev Singh v. Jaswant Singh (1960 AIR 458)**, the Supreme Court of India held that an unregistered Will is valid if it complies with the requirements of Section 63 of the Indian Succession Act, 1925.
-2. **Nirmaljit Singh v. Harbhajan Kaur (1992 AIR 499)**, the Supreme Court of India held that the registration of a Will is a matter of convenience and not of validity.
-3. **Harish Chandra vs. Prem Parkash (AIR 2000 SC 3993)**, The Supreme Court of India held that an unregistered will is still valid as long as it meets all the other requirements for a valid will.
-4. **Smt. Sushila Devi v. Smt. Jai Narayan (AIR 2007 SC 1805)**, the Supreme Court held that the fact that a Will is unregistered does not affect its validity.
+
 
 **My Inference:** 
 
@@ -68,27 +66,35 @@ The registration of Wil is not a compulsory requirement. The unregistered nature
 #### 2. Section 68 of Indian Succession Act, 1925
 > Witness not disqualified by interest or by being executor.—
 No person, by reason of interest in, or of his being an executor of, a Will shall be disqualified as a witness to prove the execution of the Will or to prove the validity or invalidity thereof.
+ 
 
-#### 2. Section 57 and 63 of the Indian Succession Act, 1925, Section 68 of the Indian Evidence Act, 1872: 
+#### 3. Section 63 of Indian Succession Act, 1925
+
+> 63. Execution of unprivileged Wills.—
+Every testator, not being a soldier employed in an expedition or engaged in actual warfare, or an airman so employed or engaged, or a mariner at sea, shall execute his Will according to the following rules:—
+(a)The testator shall sign or shall affix his mark to the Will, or it shall be signed by some other person in his presence and by his direction.
+(b)The signature or mark of the testator, or the signature of the person signing for him, shall be so placed that it shall appear that it was intended thereby to give effect to the writing as a Will.
+(c)The Will shall be attested by two or more witnesses, each of whom has seen the testator sign or affix his mark to the Will or has seen some other person sign the Will, in the presence and by the direction of the testator, or has received from the testator a personal acknowledgement of his signature or mark, or the signature of such other person; and each of the witnesses shall sign the Will in the presence of the testator, but it shall not be necessary that more than one witness be present at the same time, and no particular form of attestation shall be necessary.
+
 
 These section states that a Will must be in writing and signed by the testator (the person making the Will) or by some other person in his presence and by his direction. The Will must also be attested by two or more witnesses.
 
 **Reference Cases and Verdict:**
-1. **Ramchandra Mishra v. Lachmi Devi (AIR 1964 SC 1080)**, the Supreme Court held that an unregistered Will is as valid as a registered Will, provided that it meets the other requirements of a valid Will.
 
 **My Inference:**
 
 The original Will, is composed using a typewriter in the Hindi language and carries the signature of the Testator, two witnesses and the advocate who drafted the Will. This key detail unequivocally establishes the Will's validity and authenticity under the Indian legal framework. The fact that it was composed using a typewriter, stamped with Advocate seal and is penned in the language understood by the Testator bolsters its legal standing. In the will, the testator also states that he is of sound mind and making this will of his own volition.
 
-#### 3. Section 3 of the Indian Evidence Act, 1872:
+#### 4. Section 61 and 62 of the Indian Evidence Act, 1872:
 
-This section provides that documents must be proved by primary evidence before secondary evidence can be admitted. 
+> 61. Proof of contents of documents.
+The contents of documents may be proved either by primary or by secondary evidence.
+
+> 62. Primary Evidence.
+Primary evidence means the documents itself produced for inspection of the Court.
 
 **Reference Cases and Verdict:**
 
-1. **Rajinder Kumar v. Smt. Krishna Rani, AIR 1998 P&H 167**, the Punjab and Haryana High Court held that an unregistered Will is as valid as a registered Will, provided that it is proved by satisfactory evidence. The Court also held that the death of the witnesses does not prevent the Will from being proved.
-2. **Smt. Prem Rani v. Smt. Krishna Devi, 2009 (3) DRJ (HP) 3**, the Himachal Pradesh High Court held that an unregistered Will is as valid as a registered Will, provided that it is proved by satisfactory evidence. The Court also held that the death of the witnesses does not prevent the Will from being proved.
-3. **Smt. Ram Kaur v. Smt. Parkash Kaur, 2011 (1) DRJ (P&H) 126**, the Punjab and Haryana High Court held that an unregistered Will is as valid as a registered Will, provided that it is proved by satisfactory evidence. The Court also held that the death of the witnesses does not prevent the Will from being proved.
 
 **My Inference:** 
 
@@ -96,13 +102,14 @@ This section provides that documents must be proved by primary evidence before s
 Additionally, the presence of a Lease Deed of the property in records further strengthens our position. This Lease Deed contains reference signatures of the testator and is documented in the official government property records as well. The existence of this reference document in official records adds an extra layer of credibility and authenticity to the Will, reinforcing its status as a valid legal instrument.
 To bolster the already substantial primary evidence, a handwriting analysis of the testator's signature should provide another layer of assurance regarding the authenticity and validity of the Will. 
 
-#### 4. Section 69 of the Indian Evidence Act, 1872: 
-This section states that if both attesting witnesses to a will are dead, then the will can be proved by proving the handwriting of one attesting witness.
+#### 5. Section 69 of the Indian Evidence Act, 1872: 
+
+> 69. Proof where no attesting witness found.
+If no such attesting witness can be found, or if the document purports to have been executed in the United Kingdom, it must be proved that the attestation of one attesting witness at least is in his handwriting, and that the signature of the person executing the document is in the handwriting of that person.
 
 **Reference Cases and Verdict:**
 
-1. **Janki Narayan Bhoir v. Smt. Laxmibai and Ors. (1984 AIR 1159)**, in this case, the Supreme Court held that the attestation of one attesting witness is sufficient to prove the execution of a will when both attesting witnesses are dead.
-2. **J. Naval Kishore v. D. Swarna Bhadran, J. Parasmul, P. Venugopal and Ors. (2007 AIR 2899)**, in this case, the Supreme Court held that the attestation of one attesting witness is sufficient to prove the execution of an unregistered will when both attesting witnesses are dead.
+1. **J. Naval Kishore v. D. Swarna Bhadran, J. Parasmul, P. Venugopal and Ors. (2007 AIR 2899)**, in this case, the Supreme Court held that the attestation of one attesting witness is sufficient to prove the execution of an unregistered will when both attesting witnesses are dead.
 
 **My Inference:** 
 
@@ -112,8 +119,19 @@ If deemed necessary, the court has the authority to issue an order to retrieve t
 
 Similarly, the second witness has registered property documents in possession of his family, which also bear his signature. His daughter-in-law and grandchildren are also alive, and they may corroborate the proof by identifying his signatures. A handwriting expert can easily verify the signatures since registered sources of signatures of the testator and witnesses are available.
 
-#### 5. Section 65 and 72  of the Indian Evidence Act, 1872: 
-This section states that the documents that are 30 years old or more and are produced from proper custody are presumed to be genuine.
+#### 6. Section 65 of Indian Evidence Act, 1872
+
+> Secondary evidence may be given of the existence, condition or contents of a document in the following cases :(a)When the original is shown or appears to be in the possession or power of the person against whom the document is sought to be proved, or of any person out of reach of, or not subject to, the process of the Court, or of any person legally bound to produce it, and when, after the notice mentioned in section 66, such person does not produce it
+
+##### 7. Section 90  of the Indian Evidence Act, 1872: 
+
+> Where any document, purporting or proved to be thirty years old, is produced from any custody which the Court in the particular case considers proper, the Court may presume that the signature and every other part of such document, which purport to be in the handwriting of any particular person, is in that person's handwriting, and, in the case of a document executed or attested, that it was duly executed and attested by the persons by whom it purports to be executed and attested.
+
+> Illustrations
+a. A has been in possession of landed property for a long time. He produces from his custody deeds relating to the land, showing his titles to it. The custody is proper.
+
+> Uttar Pradesh. - The following amendments have been made in Section 90 and a new Section 90-A has been added vide U.P. Act XXIV of 1954:"1. The existing section shall be renumbered as Section 90(1), and(a) For the words "thirty years" the words "twenty years" shall be substituted, and(b) The following shall be inserted thereafter as a new sub-section (2):(2) Where any such document as is referred to in sub-section (1) was registered in accordance with the law relating to registration of documents and a duly certified copy thereof is produced, the Court may presume that the signature and every other part of such document which purports to be in the handwriting of any particular person, is in that person's handwriting, and in the case of a document executed or attested, that it was duly executed by the person by whom it purports to have been executed or attested.'
+
 
 **Reference Cases and Verdict:**
 1. **Pulukuri Kottaya vs. Emperor (AIR 1947 PC 67)**, this landmark case established the importance of Section 65 of the Indian Evidence Act. It emphasized that the provision is a valuable aid in the assessment of the genuineness of a document, particularly when it is more than 30 years old.
@@ -123,7 +141,7 @@ This section states that the documents that are 30 years old or more and are pro
 
 **My Inference:**
 
-**The Original Will**, dated **June 15, 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by me, the heir and custodian, and by a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
+**The Original Will**, dated **June 15, 1958**, undeniably qualifies as a document that has stood the test of time, being more than 60 years old. In the eyes of the court, this document is presented by my father, the heir and custodian, and obtained from a relative who is also one of the original witnesses to the Will. These custodial arrangements are not only legally sound but also lend an air of trustworthiness to the document's authenticity.
 
 ### Perspective on other aspects of the Will
 
