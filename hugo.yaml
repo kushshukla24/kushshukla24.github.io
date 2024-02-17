@@ -14,7 +14,7 @@ outputs:
 
 Paginate: 6
 enableRobotsTXT: true
-#disqusShortname: kushshukla24
+disqusShortname: kushshukla24
 googleAnalytics: G-TPL5RY5428
 
 markup:
