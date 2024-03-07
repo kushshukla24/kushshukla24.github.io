@@ -5,6 +5,7 @@ draft: false
 tags: ["build-system", "rust", "mac", "universal", "platform"]
 ---
 
+Updated: 2024-03-07
 
 ## What is a Universal Mac Build?
 
@@ -96,6 +97,45 @@ Since the Universal Mac Build comprise of both the architectures, it is expected
 ```bash
 ls -lh "<output_path>"
 ```
+
+## Consuming the Universal Mac Build
+The Universal Mac build created above doesn't work directly when consumed on the other Mac machine. This is because the Universal Mac build contains the paths to the libraries and frameworks that are specific to the machine on which it was built. This can be verified using the following command:
+```bash
+otool -L "<output_path>"
+```
+This will show the paths to the libraries and frameworks that are specific to the machine on which it was built.
+
+To consume the Universal Mac build on other Mac machine, the paths to the libraries and frameworks need to be made relative. This can be done using the following set of commands:
+
+1. Extract the architecture specific libraries from the Universal Mac build using the following command:
+```bash
+lipo -extract aarch64 <universal mac library path> -o <output_path_of_arm64_library>
+lipo -extract x86_64 <universal mac library path> -o <output_path_of_amd64_library>
+```
+
+2. Change the paths to the libraries and frameworks to be relative using the following command:
+```bash
+install_name_tool -id <output_path_of_arm64_library> <output_path_of_arm64_library>
+install_name_tool -id <output_path_of_amd64_library> <output_path_of_amd64_library>
+```
+
+3. Aggregate the architecture specific libraries to create the Universal Mac library using the following command:
+```bash
+rm -f <universal mac library path> && lipo -create -o <universal mac library path> <output_path_of_arm64_library> <output_path_of_amd64_library>
+```
+
+4. Verify the paths to the libraries and frameworks using the following command:
+```bash
+otool -L "<output_path>"
+```
+
+**Ref:** [Understanding dyld @executable_path, @loader_path and @rpath](https://itwenty.me/posts/01-understanding-rpath/)
+
+## Tribulations
+1. Using the @rpath, @loader_path, @executable_path, etc. in the Universal Mac Build with the `install_name_tool` command didn't worked for me.
+
+2. The `-change` option of the `install_name_tool` command can be used to change the paths to the libraries and frameworks to be relative. But, it didn't worked for me.
+
 
 
 
