@@ -13,7 +13,7 @@ In the preceding chapters, I provided a comprehensive history and background of 
 
 The property **P** is located on a prominent main road in Kanpur. My maternal uncle home is just 100 meters away from the property. Adding to the surroundings, there is also a nationalized bank situated directly across the road from property **P**.
 
-y father lives outside of Kanpur, and we generally spend only a few months at P; otherwise, it remains locked. A week before the robbery, both my father and mother were at the **P** property. However, on April 10th, 2018, my father was on a train with my mother, on the way, returning to his place of work.
+My father lives outside of Kanpur, and we generally spend only a few months at P; otherwise, it remains locked. A week before the robbery, both my father and mother were at the **P** property. However, on April 10th, 2018, my father was on a train with my mother, on the way, returning to his place of work.
 
 On the morning of April 10th, 2018, as my maternal sister proceeded to school along the main road in front of the property, she noticed a broken lock and a swarm of around 50-60 unfamiliar individuals inside the premises. Reacting swiftly, she hurried to school and promptly contacted her father, my maternal uncle, conveying the distressing situation and her observations. In response, my maternal uncle, accompanied by his wife, sister-in-law, and nephew, rushed to the property. Even before reaching the location, my maternal uncle promptly alerted the police about the unfolding crisis.
 
