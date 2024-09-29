@@ -12,12 +12,6 @@ PIE further enables address space layout randomization, thwarting classes of exp
 In this case, it was discovered that the position-independent executable (PIE) protection is not correctly set on certain binaries which is a good security practice against ROP chain attacks.
 
 
-Golang
-
- 
-
-build with -buildmode=pie 
-
 
 ## Verification 
 check the created binary with checksec utility.
