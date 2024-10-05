@@ -339,7 +339,7 @@ params:
 
   # projects
   projects:
-    enable: true
+    enable: false
     title: Featured Projects
     items:
       - title: Hugo Profile
