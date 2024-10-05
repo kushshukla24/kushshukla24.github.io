@@ -1,5 +1,5 @@
 ---
-title: "Cached Images in K3sdist K8s"
+title: "Re-pushing the Container Images Cached in K3s distribution of K8S Cluster"
 description : "Finding and Pushing the Cached Images in K3S distribution of Kubernetes to Docker Registry"
 date: 2024-09-29T10:50:41+05:30
 tags: ["ctr", "k3s", "k8s", "containerd"]

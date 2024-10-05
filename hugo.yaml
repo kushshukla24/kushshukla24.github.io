@@ -118,12 +118,27 @@ params:
   hero:
     enable: true
     intro: "Hi, I'm,"
-    title: "Kush Shukla"
-    subtitle: "Software Architect and Developer Advocate."
+    title: "Kush,"
+    subtitle: "a software architect"
     content: |- 
-      I am passionate about developing systems, tools, and processes
-      centered around improving developer experience and 
-      engineering productivity.
+      passionate about developing systems, tools, and processes
+      centered around catering business needs focussed on generating value.
+      I champion platform philosophy and provide value by driving 
+      end-to-end implementations and driving the adoption by the consumers.
+
+      I prefer:
+      - **Architecting systems for scale with 3-5 years horizon** over 10+ years horizon.
+      - **Iterative solution capable of faster GTM** over perfect one-shot product.
+      - **Exploiting existing tools** over reinventing the wheel.
+      - **Meaningful abstractions** over magical illusions.
+      - **Readable Code** over subtle optimizations.
+      - **Business driven code modularization** over component driven modularity.
+      - **Investing** over trading.
+      - **Automation** over grunt work.
+      - **Learning** over stagnation.
+      
+      I keep an eye on the latest trends in technology projects and try to keep myself abreast by taking courses, reading blogs and tinkering with the stuff.
+
     image: /profile1.jpg
     bottomImage:
       enable: true
@@ -133,48 +148,54 @@ params:
       name: "Resume"
       url: "https://docs.google.com/document/d/1iNt9PDA6EGSFBQWJaxgou_m3IqUTtbBzrTAnMoSoa5Q/edit?usp=sharing"
       download: true
-      newPage: false
+      newPage: true
     socialLinks:
+      customIcons:
+        - icon: /pfyi.svg
+          url: https://profile.fyi/kushshukla
       fontAwesomeIcons:
         - icon: fab fa-github
           url: https://github.com/kushshukla24
         - icon: fab fa-linkedin
           url: https://www.linkedin.com/in/kush-shukla/
-
+      
   # About
   about:
     enable: true
     title: "About Me"
     image: "/profile2.jpeg"
     content: |-
-      I possess 12+ years of experience in building robust enterprise-grade 
+      I possess 14+ years of experience in building robust enterprise-grade 
       software solutions for high-volume businesses.
 
-      I develop systems, write code and mentor product teams to solve for developing complex systems, 
-      unconventional workflow and operational challenges. 
+      A typical day in my professional capacity involves interacting with consumers, 
+      architecting systems, engaging in long discussions on ideas and technology with 
+      colleagues and fellow architects, writing code, performing code reviews, mentoring, 
+      and collaborating with cross-functional teams.
 
-      I favour modular, structured and well documented software systems. 
+      Apart from my professional life, I enjoy learning and applying my knowledge through 
+      useful hands-on projects. 
+      I have developed few systems for personal use to assist with my investment decisions, 
+      fitness, nutrition, and home automation.
 
-      I am a strong believer in the power of open source and community-driven software development.
+      I pursue these interests by continuously engaging with courses, books, blogs, and 
+      hands-on projects. 
+      I have completed 100+ courses on various MOOC platforms in a wide variety of subjects (anything I find relevant and applicable).
 
-      I also like to work on projects at the intersection of personal finance and technology.
-
-      Hobbies:
-        - Personal Finance
-        - Darts
-        - Board Games
-        - Reading
-
-    skills:
-      enable: true
-      title: "Interested in areas"
-      items:
-        - Platform Engineering / Developer Experience
-        - Engineering Management
-        - System Design and Architecture both Distributed and Monoliths
-        - Cloud Computing
-        - Deployment and Orchestration
-        - Application of AI to solve real world problems
+    # skills:
+    #   enable: true
+    #   title: "Interested in areas"
+    #   items:
+    #     - System Design and Architecture (both Distributed and Monoliths)
+    #     - Platform Engineering 
+    #     - Developer Experience
+    #     - Containerization Technologies
+    #     - Virtualization Technologies
+    #     - Cloud Computing
+    #     - Deployment and Orchestration
+    #     - Generative AI
+    #     - Investments
+    #     - Engineering Management
 
   # Experience
   experience:
@@ -318,8 +339,8 @@ params:
 
   # projects
   projects:
-    enable: false
-    # title: "Custom Name"
+    enable: true
+    title: Featured Projects
     items:
       - title: Hugo Profile
         content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
