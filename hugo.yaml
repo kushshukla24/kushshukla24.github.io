@@ -110,7 +110,7 @@ params:
       disableAbout: false
       disableExperience: false
       disableEducation: false
-      disableProjects: true
+      disableProjects: false
       disableAchievements: true
       disableContact: false
 
@@ -339,19 +339,19 @@ params:
 
   # projects
   projects:
-    enable: false
-    title: Publications
+    enable: true
+    title: Professional Projects
     items:
-      - title: "Druva’s Jarvis: An intelligent bot empowering custom workflow management"
-        content: A highly customizable and mobile first Hugo template for personal portfolio and blog.
-        image: /images/projects/profile.png
+      - title: "AI-Powered Workflow Bot"
+        content: A configuration-driven bot for the standardizaion and enforcement of custom policies to the code repository. This bot also leverages GPT-4 based code reviews. 
+        image: /bot.png
         featured:
           name: Article
           link: https://www.druva.com/blog/druvas-jarvis-an-intelligent-bot-empowering-custom-workflow-management/
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
+          - "Microservices"
+          - "GPT-4"
+          - "Python"
         # links:
         #   - icon: fa fa-envelope
         #     url: mailto:?subject=Hugo%20Profile%20Template&body=Check%20it%20out:%20https%3a%2f%2fhugo-profile.netlify.app%2fblog%2fmarkdown-syntax%2f
@@ -360,32 +360,24 @@ params:
         #   - icon: fab fa-twitter
         #     url: https://twitter.com/intent/tweet?text=Check+it+out:&url=https%3A%2F%2Fgithub.com%2Fgurusabarish%2Fhugo-profile
 
-      - title: Image Converter
-        content: A web app to convert image to pdf, png to jpg, png to jpg and png to webp without database using django.
-        image: /images/projects/converter.jpg
-        featured:
-          name: Demo
-          link: https://django-converter.herokuapp.com
+      - title: Hybrid Dev-Test Platform
+        content: A self-serve platform for developers to deploy there application code on production like (services running in on-premise datacenter utilizing the AWS services) environment that also provides functionalities like Hot-Reload which makes the development a breeze.
+        image: /hybrid.png
         badges:
-          - "Django"
-          - "Bootstrap"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/gurusabarish/converter
+          - "AWS"
+          - "Kubernetes"
+          - "Helm"
 
-      - title: Hugo Profile V2
-        content: A clean and simple Hugo template for personal portfolio and blog.
-        image: /images/projects/profile2.jpg
+      - title: Infrastructure Autoscaler
+        content: An Infrastructure Autoscaler Service for Dynamic Load Processing
+        image: /scaler.png
         featured:
-          name: Demo V2
-          link: https://hugo-profile-2.netlify.app
+          name: Article
+          link: https://www.druva.com/blog/parmanu--infrastructure-autoscaler-service-for-dynamic-load-proc
         badges:
-          - "Hugo"
-          - "Bootstrap"
-          - "Javascript"
-        links:
-          - icon: fab fa-github
-            url: https://github.com/kushshukla24
+          - "Microservices"
+          - "GitLab"
+          - "Jenkins"
 
     # Achievements
   achievements:
