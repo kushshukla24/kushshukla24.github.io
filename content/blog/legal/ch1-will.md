@@ -75,6 +75,8 @@ These section states that a Will must be in writing and signed by the testator (
 **Reference Cases and Verdict:**
 - **Meena Pradhan v. Kamla Pradhan (2023)**: This case discusses the validity of a will and the requirements for its execution, including the presence of witnesses.
 
+Ref: https://indiankanoon.org/doc/124157393/ 
+
 **My Inference:**
 
 The original Will, is composed using a typewriter in the Hindi language and carries the signature of the Testator, two witnesses and the advocate who drafted the Will. This key detail unequivocally establishes the Will's validity and authenticity under the Indian legal framework. The fact that it was composed using a typewriter, stamped with Advocate seal and is penned in the language understood by the Testator bolsters its legal standing. In the will, the testator also states that he is of sound mind and making this will of his own volition.
@@ -102,6 +104,7 @@ If no such attesting witness can be found, or if the document purports to have b
 
 1. **J. Naval Kishore v. D. Swarna Bhadran, J. Parasmul, P. Venugopal and Ors. (2007 AIR 2899)**, in this case, the Supreme Court held that the attestation of one attesting witness is sufficient to prove the execution of an unregistered will when both attesting witnesses are dead.
 
+Ref: https://indiankanoon.org/doc/667095/
 **My Inference:** 
 
 While our primary evidence should suffice to establish the authenticity and validity of the Will, it's worth considering secondary evidence, especially in a case like ours where both of the original witnesses are no longer with us. We have learned that one of the witnesses, now deceased, held a bank account with XYZ bank during their lifetime.
@@ -116,6 +119,8 @@ Similarly, the second witness has registered property documents in possession of
 
 **Reference Cases and Verdict:**
 1. **Pulukuri Kottaya vs. Emperor (AIR 1947 PC 67)**, this landmark case established the importance of Section 65 of the Indian Evidence Act. It emphasized that the provision is a valuable aid in the assessment of the genuineness of a document, particularly when it is more than 30 years old.
+
+Ref: https://indiankanoon.org/doc/254739/
 
 ##### 6. Section 90  of the Indian Evidence Act, 1872: 
 

@@ -77,11 +77,6 @@ This section states that no coparcener can alienate their undivided interest in 
 
 Property **P** is an ancestral property, and its inheritance and disposition are governed by the Hindu Succession Act, 1956.  Since the property is not yet freehold, it remains ancestral property, and the purported sale of portions by **G2**, **S1**, and **S2** without the consent of **F** is a clear violation of this section.
 
-**Reference Cases and Verdict**:
-1. **Baldev Singh v. Jaswant Singh (1960 AIR 458)**, the Supreme Court of India held that a sale of ancestral property by a coparcener without the consent of other coparceners is voidable at the instance of the other coparceners. This implies that the sale can be challenged and overturned by the non-consenting legal heirs.
-
-2. **Harbans Singh v. Harnek Singh (1968) AIR 1968 P&H 514**, The High Court of Punjab and Haryana upheld the principle established in Rameshwar Dayal, reiterating that a sale of ancestral property without the consent of other coparceners is void ab initio. This means that the sale is completely invalid from the outset and has no legal effect.
-
 
 #### 3. Section 4 of Transfer of Property Act, 1882 
 
