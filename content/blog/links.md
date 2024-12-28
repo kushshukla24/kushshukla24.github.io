@@ -19,10 +19,21 @@ draft: false
 
 # Reading List 
 
-Week [7th Oct 2024 - 14th Oct 2024]
 - https://biriukov.dev/docs/fd-pipe-session-terminal/0-sre-should-know-about-gnu-linux-shell-related-internals-file-descriptors-pipes-terminals-user-sessions-process-groups-and-daemons/
 - https://biriukov.dev/docs/page-cache/0-linux-page-cache-for-sre/
 - https://martinfowler.com/bliki/MonolithFirst.html
+
+
+# Tool and Repositories
+
+- https://dev.to/kafeel_ahmad/17-mindblowing-github-repositories-you-never-knew-existed-555g
+
+- https://dev.to/lissy93/cli-tools-you-cant-live-without-57f6
+
+
+# Smart Contracts
+
+- https://developers.stellar.org/
 
 
 
