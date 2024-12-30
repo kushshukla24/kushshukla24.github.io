@@ -22,3 +22,11 @@ dnsTunneling=true
 Run `wsl.exe --shutdown`to restart WSL.
 
 **Ref**: https://superuser.com/questions/1630487/no-internet-connection-ubuntu-wsl-while-vpn
+
+## Tip
+Launching the WSL with root user always
+
+Execute this in the Powershell
+```powershell
+ubuntu config --default-user root
+```
