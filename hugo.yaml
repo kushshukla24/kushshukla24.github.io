@@ -165,7 +165,7 @@ params:
     title: "About Me"
     image: "/profile2.jpeg"
     content: |-
-      I possess 13+ years of experience in building robust enterprise-grade 
+      I possess 14+ years of experience in building robust enterprise-grade 
       software solutions for high-volume businesses.
 
       A typical day in my professional capacity involves interacting with consumers, 
@@ -202,6 +202,17 @@ params:
     enable: true
     # title: "Custom Name"
     items:
+      -- job: "Software Architect"
+        company: "IDrive"
+        companyUrl: "https://idrive.com"
+        date: "Jul 2025 - Present"
+        featuredLink:
+          enable: false
+          name: "View the project"
+          url: "https://example.com"
+        content: |-
+          - Architect in Enterprise Backup team responsible for architecting backup solutions for enterprise workload from scratch.
+
       - job: "Principal Engineer"
         company: "Druva"
         companyUrl: "https://druva.com"
@@ -447,3 +458,4 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
