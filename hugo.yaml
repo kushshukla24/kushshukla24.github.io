@@ -211,12 +211,15 @@ params:
           name: "View the project"
           url: "https://example.com"
         content: |-
-          - Architect in Enterprise Backup team responsible for architecting backup solutions for enterprise workload from scratch.
+          - Architect in Enterprise Backup team
+          - Stakeholder Management
+          - Team Building
+          - Competetive Analysis
 
       - job: "Principal Engineer"
         company: "Druva"
         companyUrl: "https://druva.com"
-        date: "Apr 2019 - Present"
+        date: "Apr 2019 - Jul 2025"
         featuredLink:
           enable: false
           name: "View the project"
@@ -237,7 +240,7 @@ params:
           url: "https://example.com"
         info:
           enable: false
-          content: Druva Data Solutions Ltd., Pune India
+          content: PTC Software Solution Ltd., Pune India
         content: |
           - Focal point for design, development and maintenance activities of Creo Systems Team.
           - Spearheaded and leading a 5-member team focused on implementing resolutions and updates.
@@ -458,5 +461,6 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
 
 
