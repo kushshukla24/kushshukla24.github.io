@@ -202,7 +202,7 @@ params:
     enable: true
     # title: "Custom Name"
     items:
-      -- job: "Software Architect"
+      - job: "Software Architect"
         company: "IDrive"
         companyUrl: "https://idrive.com"
         date: "Jul 2025 - Present"
@@ -458,4 +458,5 @@ params:
 
   #customScripts: -| # You can add custom scripts which will be added before </body> tag
   #  <script type="text/javascript"><!-- any script here --></script>
+
 
